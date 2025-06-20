@@ -1,4 +1,4 @@
-name: CI/CD: Firebase Hosting
+name: "CI/CD: Firebase Hosting"
 
 on:
   push:
